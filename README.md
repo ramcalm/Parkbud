@@ -7,8 +7,8 @@ people using the Google Places API and is also linked with Google Maps to get di
 the respective Parking Space.
 
 Changes to be Made while cloning:
-Add your Google Cloud API Key in:
-    android\app\src\main\AndroidManifest.xml
+Add your Google Cloud API Key in:<br>
+    android\app\src\main\AndroidManifest.xml<br>
     ios\Runner\AppDelegate.swift
     
 Replace "Your_API_Key" with your Google Cloud API Key
