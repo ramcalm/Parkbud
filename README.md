@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+This project helps you to locate nearby free parking spaces nearby your current location for 
+people using the Google Places API and is also linked with Google Maps to get directions to 
+the respective Parking Space.
+
+Changes to be Made while cloning:
+Add your Google Cloud API Key in:
+    android\app\src\main\AndroidManifest.xml
+    ios\Runner\AppDelegate.swift
+    
+Replace "Your_API_Key" with your Google Cloud API Key
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +25,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<p align="center">
+  <img src="App1.jpeg" width="350" title="hover text">
+  <img src="App2.jpeg" width="350" alt="accessibility text">
+</p>
